@@ -29,5 +29,5 @@ Polynomial Regression is the best way of drawing a line using data point.
 - The predictive model achieved a significant R-squared (R2) score of 0.9812, indicating a strong relationship between the selected independen variables.
 - Predicted salary of  new employee who applied for the role Regional Manager and has a work experience of 2 years and falls under level 6.5 is 133259.47
 
-  # Conclusion
+# Conclusion
   - This conclusion section summarizes the achievements of the polynomial regression model in predicting employee salaries, discusses its accuracy, practical implications, and suggests potential future enhancements to the model.
